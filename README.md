@@ -15,6 +15,5 @@ I'm 39 and after my children were taken care of, my marriage stabilized, I decid
 * [LinkedIn](https://www.linkedin.com/in/rosemeri-borges-92b486237/)
 * [Medium](https://medium.com/@roseborges_85835)
 
-
 ## Projetos:
 Veja meus projetos:
