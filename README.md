@@ -18,4 +18,4 @@ I'm 39 and after my children were taken care of, my marriage stabilized, I decid
 ## Projetos:
 Veja meus projetos:
 
-**Investigando o naufrágio do Titanic:** https://bityli.com/yY5WF
+**Investigando o naufrágio do Titanic:** http://bit.ly/3JKpoaJ
