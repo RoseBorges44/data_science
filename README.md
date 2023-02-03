@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
 </p>
 
-# Rose Borges
+# Rosemeri Borges
 <sub>*Data Science student* at Unopar University</sub>
 
 Passionate about technology, data and innovation! I'm very curious, I like to learn new things, I really believe that if everything we do is with love and being our best we will be making a difference with our work, regardless of what it is, I love solving problems the problem is more interesting than the solution I like challenges, I believe that we only fail if we give up!
