@@ -1,6 +1,5 @@
-
----<p align="center">
-  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/122793017/226485895-75f3dafd-af21-4479-924b-0e7b789c7b9a.png" >
 </p>
 
 # Rosemeri Borges
