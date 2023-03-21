@@ -19,4 +19,5 @@ Tenho 39 e depois de meus filhos encaminhados, meu casamento estabilizado, decid
 Veja meus projetos:
 
 **Investigando o naufrágio do Titanic:** http://bit.ly/3JKpoaJ
+
 **Analisando dados do AirBnb - Broward County:** 
