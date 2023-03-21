@@ -5,8 +5,9 @@
 # Rosemeri Borges
 <sub>*Data Science student* at Unopar University</sub>
 
-Passionate about technology, data and innovation! I'm very curious, I like to learn new things, I really believe that if everything we do is with love and being our best we will be making a difference with our work, regardless of what it is, I love solving problems the problem is more interesting than the solution I like challenges, I believe that we only fail if we give up!
-I'm 39 and after my children were taken care of, my marriage stabilized, I decided to dedicate myself to my passion which is Data Science.
+Com mais de 18 anos de experiência em rotinas administrativas, sou uma pessoa curiosa, criativa e atenta a detalhes. Tenho habilidades em solução de problemas e pensamento crítico, o que me permite identificar oportunidades de melhoria e propor soluções inovadoras.
+Além disso, possuo vasta experiência em licitações, o que me permite ter um entendimento completo do processo de compras governamentais. E, para ampliar ainda mais minha visão e conhecimento em áreas relacionadas à tecnologia e análise de dados, estou atualmente cursando Ciência de Dados.
+Tenho 39 e depois de meus filhos encaminhados, meu casamento estabilizado, decidi me dedicar a minha paixão que a Área de Dados.
 
 **Background in:** Python, Machine Learning, QA Tests.
 
@@ -18,3 +19,4 @@ I'm 39 and after my children were taken care of, my marriage stabilized, I decid
 Veja meus projetos:
 
 **Investigando o naufrágio do Titanic:** http://bit.ly/3JKpoaJ
+**Analisando dados do AirBnb - Broward County:** 
