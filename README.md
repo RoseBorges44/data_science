@@ -20,4 +20,4 @@ Veja meus projetos:
 
 **Investigando o naufrágio do Titanic:** http://bit.ly/3JKpoaJ
 
-**Analisando dados do AirBnb - Broward County:** 
+**Analisando dados do AirBnb - Broward County:** http://bit.ly/3namuCP
