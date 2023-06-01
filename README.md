@@ -22,4 +22,4 @@ Veja meus projetos:
 
 **Analisando dados do AirBnb - Broward County:** http://bit.ly/3namuCP
 
-**Artigo sobre Keying: ** https://www.linkedin.com/pulse/aplicando-t%25C3%25A9cnicas-de-keying-com-opencv-cria%25C3%25A7%25C3%25A3o-cen%25C3%25A1rios-borges/
+**Artigo sobre Keying:** https://www.linkedin.com/pulse/aplicando-t%25C3%25A9cnicas-de-keying-com-opencv-cria%25C3%25A7%25C3%25A3o-cen%25C3%25A1rios-borges/
