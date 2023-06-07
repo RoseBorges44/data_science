@@ -23,3 +23,6 @@ Veja meus projetos:
 **Analisando dados do AirBnb - Broward County:** http://bit.ly/3namuCP
 
 **Artigo sobre Keying:** https://www.linkedin.com/pulse/aplicando-t%25C3%25A9cnicas-de-keying-com-opencv-cria%25C3%25A7%25C3%25A3o-cen%25C3%25A1rios-borges/
+
+**Panorama da Covid-19 no Brasil e no Mundo:**(https://github.com/RoseBorges44/data_science/assets/122793017/73b22f54-82c8-465d-a44c-2956aa58e8d6)
+
