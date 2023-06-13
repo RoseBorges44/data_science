@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122793017/226485895-75f3dafd-af21-4479-924b-0e7b789c7b9a.png" >
+  <img src="![123](https://github.com/RoseBorges44/data_science/assets/122793017/321eaafd-fe4c-4204-87d1-059665551db7)
+" >
 </p>
 
 # Rosemeri Borges
