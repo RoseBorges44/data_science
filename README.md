@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="C:\Users\rosej\Desktop\123.png)
+  <img src="![123](https://github.com/RoseBorges44/data_science/assets/122793017/b1d3828f-3f04-402b-b1ed-ee0736c37053)
+)
 " >
 </p>
 
