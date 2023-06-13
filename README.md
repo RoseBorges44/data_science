@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![123](https://github.com/RoseBorges44/data_science/assets/122793017/321eaafd-fe4c-4204-87d1-059665551db7)
+  <img src="C:\Users\rosej\Desktop\123.png)
 " >
 </p>
 
