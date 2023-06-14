@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![123](https://github.com/RoseBorges44/data_science/assets/122793017/b1d3828f-3f04-402b-b1ed-ee0736c37053)
+  <img src="[(https://media.licdn.com/dms/image/D4D16AQHhcXu06d2tpA/profile-displaybackgroundimage-shrink_350_1400/0/1686134777086?e=1692230400&v=beta&t=4lhGRtxjZ7c6nqqKsjbAvZepUgyqJvS9ay00ePQiXTQ))
 )
 " >
 </p>
