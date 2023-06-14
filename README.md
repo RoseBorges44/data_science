@@ -5,7 +5,7 @@
 </p>
 
 # Rosemeri Borges
-<sub>*Data Science student* at Unopar University</sub>
+<sub>*Data Science student* at Unopar University and Sigmoidal</sub>
 
 Sou uma profissional dedicada à Ciência de Dados e Visão Computacional, em busca de oportunidades para aplicar meus conhecimentos e contribuir com soluções inovadoras. 
 Com uma sólida experiência de mais de 15 anos como gerente administrativo, adquiri habilidades em liderança, gestão de equipes e tomada de decisões estratégicas. 
