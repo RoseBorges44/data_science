@@ -31,7 +31,7 @@ Veja meus projetos em:
 
 **Artigo *"A Alquimia dos Dados: Transformando Informações em Ouro"*:** https://www.linkedin.com/pulse/alquimia-dos-dados-transformando-informa%25C3%25A7%25C3%25B5es-em-ouro-rosemeri-borges
 
-**WordCloud Halloween:** Wordcloud_Helloween.ipynb
+**WordCloud Helloween:** Wordcloud_Helloween.ipynb
 
 **- VISÃO COMPUTACIONAL**
 
