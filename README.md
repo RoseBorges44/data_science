@@ -1,8 +1,10 @@
+[![author](https://img.shields.io/badge/author-rosemeriborges-red.svg)](https://www.linkedin.com/in/rosemeri-borges-92b486237/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
+
 <p align="center">
-  <img src="[(https://media.licdn.com/dms/image/D4D16AQHhcXu06d2tpA/profile-displaybackgroundimage-shrink_350_1400/0/1686134777086?e=1692230400&v=beta&t=4lhGRtxjZ7c6nqqKsjbAvZepUgyqJvS9ay00ePQiXTQ))
-)
-" >
+  <img src="https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80" alt="imagem visao"height=400px >
 </p>
+
+
 
 # Rosemeri Borges
 <sub>*Data Science student* at Unopar University and Sigmoidal</sub>
@@ -27,11 +29,11 @@ Veja meus projetos em:
 
 **Analisando dados do AirBnb - Broward County:** http://bit.ly/3namuCP
 
-**Panorama da Covid-19 no Brasil e no Mundo:**(https://github.com/RoseBorges44/data_science/assets/122793017/73b22f54-82c8-465d-a44c-2956aa58e8d6)
+**Panorama da Covid-19 no Brasil e no Mundo:** (https://github.com/RoseBorges44/data_science/assets/122793017/73b22f54-82c8-465d-a44c-2956aa58e8d6)
 
-**Artigo *"A Alquimia dos Dados: Transformando Informações em Ouro"*:** https://www.linkedin.com/pulse/alquimia-dos-dados-transformando-informa%25C3%25A7%25C3%25B5es-em-ouro-rosemeri-borges
+**Artigo *"A Alquimia dos Dados: Transformando Informações em Ouro"*:**  https://www.linkedin.com/pulse/alquimia-dos-dados-transformando-informa%25C3%25A7%25C3%25B5es-em-ouro-rosemeri-borges
 
-**WordCloud Helloween:** Wordcloud_Helloween.ipynb
+**WordCloud Helloween:** https://www.linkedin.com/posts/rosemeri-borges-92b486237_helloween-heavymetal-letrasqueinspiram-activity-7076896595207761921-nhb1?utm_source=share&utm_medium=member_desktop - Wordcloud_Helloween.ipynb
 
 **- VISÃO COMPUTACIONAL**
 
