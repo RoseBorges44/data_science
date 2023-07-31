@@ -29,7 +29,7 @@ Veja meus projetos em:
 
 **Analisando dados do AirBnb - Broward County:** http://bit.ly/3namuCP
 
-**Panorama da Covid-19 no Brasil e no Mundo:** (https://github.com/RoseBorges44/data_science/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)
+**Panorama da Covid-19 no Brasil e no Mundo:** https://bit.ly/3DCfnIe
 
 **Artigo *"A Alquimia dos Dados: Transformando Informações em Ouro"*:**  https://www.linkedin.com/pulse/alquimia-dos-dados-transformando-informa%25C3%25A7%25C3%25B5es-em-ouro-rosemeri-borges
 
