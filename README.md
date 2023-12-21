@@ -35,6 +35,10 @@ Veja meus projetos em:
 
 **WordCloud Helloween:** https://www.linkedin.com/posts/rosemeri-borges-92b486237_helloween-heavymetal-letrasqueinspiram-activity-7076896595207761921-nhb1?utm_source=share&utm_medium=member_desktop - Wordcloud_Helloween.ipynb
 
-**- VISÃO COMPUTACIONAL**
 
-**Artigo sobre Keying:** https://www.linkedin.com/pulse/aplicando-t%25C3%25A9cnicas-de-keying-com-opencv-cria%25C3%25A7%25C3%25A3o-cen%25C3%25A1rios-borges/
+
+
+
+**- VISÃO COMPUTACIONAL** veja também...
+
+
